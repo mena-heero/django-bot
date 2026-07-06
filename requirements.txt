@@ -1,4 +1,4 @@
-aiogram==3.29.0
+aiogram==3.29.1
 boto3==1.43.39
 cachetools==7.1.4
 celery==5.6.3
